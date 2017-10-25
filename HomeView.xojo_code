@@ -19,14 +19,14 @@ Begin iosView HomeView
       EditingEnabled  =   False
       EstimatedRowHeight=   -1
       Format          =   "1"
-      Height          =   136.0
+      Height          =   -152.0
       Left            =   501
       LockedInPosition=   False
       Scope           =   0
       SectionCount    =   0
       Top             =   574
       Visible         =   False
-      Width           =   432.0
+      Width           =   320.0
    End
    Begin iOSProgressWheel ProgressWheel1
       AccessibilityHint=   ""
@@ -36,7 +36,7 @@ Begin iosView HomeView
       AutoLayout      =   ProgressWheel1, 7, , 0, True, +1.00, 1, 1, 20, , True
       AutoLayout      =   ProgressWheel1, 9, <Parent>, 9, False, +1.00, 1, 1, 551, , True
       Height          =   20.0
-      Left            =   757
+      Left            =   701
       LockedInPosition=   False
       Scope           =   0
       Shade           =   "0"
@@ -57,7 +57,7 @@ Begin iosView HomeView
       Left            =   501
       LockedInPosition=   False
       Scope           =   0
-      Top             =   731
+      Top             =   443
       Visible         =   True
       Width           =   260.0
    End
@@ -81,7 +81,7 @@ Begin iosView HomeView
       TextSize        =   0
       Top             =   65
       Visible         =   True
-      Width           =   432.0
+      Width           =   320.0
       Begin iOSLabel infoupdate
          AccessibilityHint=   ""
          AccessibilityLabel=   ""
@@ -104,7 +104,7 @@ Begin iosView HomeView
          TextSize        =   12
          Top             =   110
          Visible         =   True
-         Width           =   432.0
+         Width           =   320.0
       End
    End
    Begin xojo.Core.Timer Timer1
@@ -125,13 +125,13 @@ Begin iosView HomeView
       AutoLayout      =   WebViewer1, 1, <Parent>, 1, False, +1.00, 1, 1, 0, , True
       AutoLayout      =   WebViewer1, 2, <Parent>, 2, False, +1.00, 2, 1, 0, , True
       AutoLayout      =   WebViewer1, 3, <Parent>, 3, False, +1.00, 1, 1, 130, , True
-      Height          =   638.0
+      Height          =   350.0
       Left            =   0
       LockedInPosition=   False
       Scope           =   0
       Top             =   130
       Visible         =   True
-      Width           =   432.0
+      Width           =   320.0
    End
 End
 #tag EndIOSView
@@ -259,7 +259,7 @@ End
 		          TextArea1.Text=TextArea1.Text+"T1 PEC : "+Stats_T1G.Field("T1_PEC").TextValue + " - " + Stats_T1G.Field("Nbre_de_tickets").TextValue + " incidents"
 		          infoupdate.Text="Données du "+ Stats_T1G.Field("Date_Update").TextValue.Right(2)+"/"+Stats_T1G.Field("Date_Update").TextValue.Mid(4,2)+"/"+Stats_T1G.Field("Date_Update").TextValue.Mid(0,4)
 		          infoupdate.Text=infoupdate.Text+" à " +Stats_T1G.Field("Time_Update").TextValue
-		           Stats_T1G.MoveNext
+		          Stats_T1G.MoveNext
 		        Wend
 		      Catch e As iOSSQLiteException
 		        Break
@@ -367,7 +367,7 @@ End
 		          TextArea1.Text=TextArea1.Text+"T1 PEC : "+Stats_T1G.Field("T1_PEC").TextValue + " - " + Stats_T1G.Field("Nbre_de_tickets").TextValue + " incidents"
 		          infoupdate.Text="Données du "+ Stats_T1G.Field("Date_Update").TextValue.Right(2)+"/"+Stats_T1G.Field("Date_Update").TextValue.Mid(4,2)+"/"+Stats_T1G.Field("Date_Update").TextValue.Mid(0,4)
 		          infoupdate.Text=infoupdate.Text+" à " +Stats_T1G.Field("Time_Update").TextValue
-		           Stats_T1G.MoveNext
+		          Stats_T1G.MoveNext
 		        Wend
 		      Catch e As IOSSQLiteException
 		        Break
