@@ -1,0 +1,46 @@
+#tag MultiImage
+Image logosmall
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGeAAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENaHYNbG9nb3NtYWxsLnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1ofNJGdQVQTkdmOEJJTf////8AAAkgAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADQ7yQZAAAAEQAIAADSRljlAAAAAQAUAQ1odgENZ+EACT0JAAk8+AAClCMAAgBGTWFjaW50b3NoIEhEOlVzZXJzOgBMZXJheToARGVza3RvcDoAVGVhbUZvcmNlIGlPUzoAaW1nczoAbG9nb3NtYWxsLnBuZwAOABwADQBsAG8AZwBvAHMAbQBhAGwAbAAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIANFVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9pbWdzL2xvZ29zbWFsbC5wbmcAEwABLwAAFQACAAz//wAAAAAAAAAA
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/imgs/logosmall.png
+		PartialPath = ..\imgs\logosmall.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGmAAAAAAGmAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENaHYPbG9nb3NtYWxseDIucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1ofdJH0U9QTkdmOEJJTf////8AAAkgAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADQ7yQZAAAAEQAIAADSR7UvAAAAAQAUAQ1odgENZ+EACT0JAAk8+AAClCMAAgBITWFjaW50b3NoIEhEOlVzZXJzOgBMZXJheToARGVza3RvcDoAVGVhbUZvcmNlIGlPUzoAaW1nczoAbG9nb3NtYWxseDIucG5nAA4AIAAPAGwAbwBnAG8AcwBtAGEAbABsAHgAMgAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIANlVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9pbWdzL2xvZ29zbWFsbHgyLnBuZwATAAEvAAAVAAIADP//AAAAAAAAAAA=
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/imgs/logosmallx2.png
+		PartialPath = ..\imgs\logosmallx2.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGmAAAAAAGmAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENaHYPbG9nb3NtYWxseDMucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1oftJH0ThQTkdmOEJJTf////8AAAkgAAAAAAAAAAAAAAAAAAAABGltZ3MAEAAIAADQ7yQZAAAAEQAIAADSR7UYAAAAAQAUAQ1odgENZ+EACT0JAAk8+AAClCMAAgBITWFjaW50b3NoIEhEOlVzZXJzOgBMZXJheToARGVza3RvcDoAVGVhbUZvcmNlIGlPUzoAaW1nczoAbG9nb3NtYWxseDMucG5nAA4AIAAPAGwAbwBnAG8AcwBtAGEAbABsAHgAMwAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIANlVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9pbWdzL2xvZ29zbWFsbHgzLnBuZwATAAEvAAAVAAIADP//AAAAAAAAAAA=
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/imgs/logosmallx3.png
+		PartialPath = ..\imgs\logosmallx3.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

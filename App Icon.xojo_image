@@ -1,0 +1,309 @@
+#tag MultiImage
+Image App Icon
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 16.00
+			Orientation = Any
+			Platform = 6
+			PPI = 72
+			VSize = 16.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 16.00
+			Orientation = Any
+			Platform = 2
+			PPI = 144
+			VSize = 16.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 32.00
+			Orientation = Any
+			Platform = 6
+			PPI = 72
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 32.00
+			Orientation = Any
+			Platform = 2
+			PPI = 144
+			VSize = 32.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = Tiles / Thumbnails
+			Device = 16
+			HSize = 48.00
+			Orientation = Any
+			Platform = 4
+			PPI = 96
+			VSize = 48.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 128.00
+			Orientation = Any
+			Platform = 2
+			PPI = 72
+			VSize = 128.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 128.00
+			Orientation = Any
+			Platform = 2
+			PPI = 144
+			VSize = 128.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 256.00
+			Orientation = Any
+			Platform = 6
+			PPI = 72
+			VSize = 256.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 256.00
+			Orientation = Any
+			Platform = 2
+			PPI = 144
+			VSize = 256.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 512.00
+			Orientation = Any
+			Platform = 2
+			PPI = 72
+			VSize = 512.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 16
+			HSize = 512.00
+			Orientation = Any
+			Platform = 2
+			PPI = 144
+			VSize = 512.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = Notification\niOS 7-10
+			Device = 3
+			HSize = 20.00
+			Orientation = Any
+			Platform = 1
+			PPI = 72
+			VSize = 20.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = Notification\niOS 7-10
+			Device = 3
+			HSize = 20.00
+			Orientation = Any
+			Platform = 1
+			PPI = 144
+			VSize = 20.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = Notification\niOS 7-10
+			Device = 3
+			HSize = 20.00
+			Orientation = Any
+			Platform = 1
+			PPI = 216
+			VSize = 20.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGgAAAAAAGgAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MKaVBhZDI5LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n5dJFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIAR01hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGFkMjkucG5nAAAOABYACgBpAFAAYQBkADIAOQAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIANVVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGFkMjkucG5nAAATAAEvAAAVAAIADP//AAAAAAAAAAA=
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPad29.png
+		PartialPath = ..\App Icon\iPad29.png
+		#tag ImageSpecification
+			Comment = Settings\niOS 5-8
+			Device = 2
+			HSize = 29.00
+			Orientation = Any
+			Platform = 1
+			PPI = 72
+			VSize = 29.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGoAAAAAAGoAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MMaVBhZDI5MngucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n5tJFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIASU1hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGFkMjkyeC5wbmcAAA4AGgAMAGkAUABhAGQAMgA5ADIAeAAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAN1VzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGFkMjkyeC5wbmcAABMAAS8AABUAAgAM//8AAAAAAAAAAA==
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPad292x.png
+		PartialPath = ..\App Icon\iPad292x.png
+		#tag ImageSpecification
+			Comment = Settings\niOS 5-8
+			Device = 7
+			HSize = 29.00
+			Orientation = Any
+			Platform = 1
+			PPI = 144
+			VSize = 29.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGwAAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MOaVBob25lMjkzeC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n7NJFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIAS01hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGhvbmUyOTN4LnBuZwAADgAeAA4AaQBQAGgAbwBuAGUAMgA5ADMAeAAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAOVVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGhvbmUyOTN4LnBuZwAAEwABLwAAFQACAAz//wAAAAAAAAAA
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPhone293x.png
+		PartialPath = ..\App Icon\iPhone293x.png
+		#tag ImageSpecification
+			Comment = Settings\niOS 5-8
+			Device = 1
+			HSize = 29.00
+			Orientation = Any
+			Platform = 1
+			PPI = 216
+			VSize = 29.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGgAAAAAAGgAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MKaVBhZDQwLnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n59JFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIAR01hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGFkNDAucG5nAAAOABYACgBpAFAAYQBkADQAMAAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIANVVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGFkNDAucG5nAAATAAEvAAAVAAIADP//AAAAAAAAAAA=
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPad40.png
+		PartialPath = ..\App Icon\iPad40.png
+		#tag ImageSpecification
+			Comment = Spotlight\niOS 7\x2C8
+			Device = 2
+			HSize = 40.00
+			Orientation = Any
+			Platform = 1
+			PPI = 72
+			VSize = 40.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGoAAAAAAGoAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MMaVBhZDQwMngucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n6NJFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIASU1hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGFkNDAyeC5wbmcAAA4AGgAMAGkAUABhAGQANAAwADIAeAAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAN1VzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGFkNDAyeC5wbmcAABMAAS8AABUAAgAM//8AAAAAAAAAAA==
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPad402x.png
+		PartialPath = ..\App Icon\iPad402x.png
+		#tag ImageSpecification
+			Comment = Spotlight\niOS 7\x2C 8
+			Device = 7
+			HSize = 40.00
+			Orientation = Any
+			Platform = 1
+			PPI = 144
+			VSize = 40.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGwAAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MOaVBob25lNDAzeC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n7tJFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIAS01hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGhvbmU0MDN4LnBuZwAADgAeAA4AaQBQAGgAbwBuAGUANAAwADMAeAAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAOVVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGhvbmU0MDN4LnBuZwAAEwABLwAAFQACAAz//wAAAAAAAAAA
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPhone403x.png
+		PartialPath = ..\App Icon\iPhone403x.png
+		#tag ImageSpecification
+			Comment = Spotlight\niOS 7\x2C 8
+			Device = 1
+			HSize = 40.00
+			Orientation = Any
+			Platform = 1
+			PPI = 216
+			VSize = 40.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGwAAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MOaVBob25lNDAzeC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n7tJFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIAS01hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGhvbmU0MDN4LnBuZwAADgAeAA4AaQBQAGgAbwBuAGUANAAwADMAeAAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAOVVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGhvbmU0MDN4LnBuZwAAEwABLwAAFQACAAz//wAAAAAAAAAA
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPhone403x.png
+		PartialPath = ..\App Icon\iPhone403x.png
+		#tag ImageSpecification
+			Comment = App\niOS 7\x2C 8
+			Device = 1
+			HSize = 60.00
+			Orientation = Any
+			Platform = 1
+			PPI = 144
+			VSize = 60.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGwAAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MOaVBob25lNjAzeC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n8NJFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIAS01hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGhvbmU2MDN4LnBuZwAADgAeAA4AaQBQAGgAbwBuAGUANgAwADMAeAAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAOVVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGhvbmU2MDN4LnBuZwAAEwABLwAAFQACAAz//wAAAAAAAAAA
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPhone603x.png
+		PartialPath = ..\App Icon\iPhone603x.png
+		#tag ImageSpecification
+			Comment = App\niOS 7\x2C 8
+			Device = 1
+			HSize = 60.00
+			Orientation = Any
+			Platform = 1
+			PPI = 216
+			VSize = 60.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGgAAAAAAGgAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MKaVBhZDc2LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n6dJFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIAR01hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGFkNzYucG5nAAAOABYACgBpAFAAYQBkADcANgAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIANVVzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGFkNzYucG5nAAATAAEvAAAVAAIADP//AAAAAAAAAAA=
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPad76.png
+		PartialPath = ..\App Icon\iPad76.png
+		#tag ImageSpecification
+			Comment = App\niOS 7\x2C8
+			Device = 2
+			HSize = 76.00
+			Orientation = Any
+			Platform = 1
+			PPI = 72
+			VSize = 76.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGoAAAAAAGoAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAENZ+MMaVBhZDc2MngucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1n6tJFx70AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEFwcCBJY29uABAACAAA0O8kGQAAABEACAAA0kWrnQAAAAEAFAENZ+MBDWfhAAk9CQAJPPgAApQjAAIASU1hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERlc2t0b3A6AFRlYW1Gb3JjZSBpT1M6AEFwcCBJY29uOgBpUGFkNzYyeC5wbmcAAA4AGgAMAGkAUABhAGQANwA2ADIAeAAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAN1VzZXJzL0xlcmF5L0Rlc2t0b3AvVGVhbUZvcmNlIGlPUy9BcHAgSWNvbi9pUGFkNzYyeC5wbmcAABMAAS8AABUAAgAM//8AAAAAAAAAAA==
+		FullPath = /Users/Leray/Desktop/TeamForce iOS/App Icon/iPad762x.png
+		PartialPath = ..\App Icon\iPad762x.png
+		#tag ImageSpecification
+			Comment = App\niOS 7\x2C8
+			Device = 2
+			HSize = 76.00
+			Orientation = Any
+			Platform = 1
+			PPI = 144
+			VSize = 76.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = App\niOS 8\x2C9
+			Device = 2
+			HSize = 83.50
+			Orientation = Any
+			Platform = 1
+			PPI = 144
+			VSize = 83.50
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

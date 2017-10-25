@@ -1,0 +1,46 @@
+#tag MultiImage
+Image Tool_information
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAHyAAAAAAHyAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAAiblgPaW5mb3JtYXRpb24ucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACJud9E0aXwAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB0dlbmVyYWwAABAACAAA0O8kGQAAABEACAAA0TRbbAAAAAEAIAAiblgAImxvACJsbQAiO+4AIh1qAAk8+wAJPPgAApQjAAIAZ01hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERvd25sb2FkczoAaU9TIFBybzoAUE5HOgBTb2xpZDoAMzJweCAoVGFiIGJhciBAMXgpOgBHZW5lcmFsOgBpbmZvcm1hdGlvbi5wbmcAAA4AIAAPAGkAbgBmAG8AcgBtAGEAdABpAG8AbgAuAHAAbgBnAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAUlVzZXJzL0xlcmF5L0Rvd25sb2Fkcy9pT1MgUHJvL1BORy9Tb2xpZC8zMnB4IChUYWIgYmFyIEAxeCkvR2VuZXJhbC9pbmZvcm1hdGlvbi5wbmcAEwABLwAAFQACAAz//wAAAAAAAAAA
+		FullPath = /Users/Leray/Downloads/iOS Pro/PNG/Solid/32px (Tab bar @1x)/General/information.png
+		PartialPath = ..\..\..\Downloads\iOS Pro\PNG\Solid\32px (Tab bar @1x)\General\information.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAH+AAAAAAH+AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAAicrcSaW5mb3JtYXRpb25AMngucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACJy1tE0Z0EAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB0dlbmVyYWwAABAACAAA0O8kGQAAABEACAAA0TRZMQAAAAEAIAAicrcAInDMACJsbQAiO+4AIh1qAAk8+wAJPPgAApQjAAIAak1hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERvd25sb2FkczoAaU9TIFBybzoAUE5HOgBTb2xpZDoANjRweCAoVGFiIGJhciBAMngpOgBHZW5lcmFsOgBpbmZvcm1hdGlvbkAyeC5wbmcADgAmABIAaQBuAGYAbwByAG0AYQB0AGkAbwBuAEAAMgB4AC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBVVXNlcnMvTGVyYXkvRG93bmxvYWRzL2lPUyBQcm8vUE5HL1NvbGlkLzY0cHggKFRhYiBiYXIgQDJ4KS9HZW5lcmFsL2luZm9ybWF0aW9uQDJ4LnBuZwAAEwABLwAAFQACAAz//wAAAAAAAAAA
+		FullPath = /Users/Leray/Downloads/iOS Pro/PNG/Solid/64px (Tab bar @2x)/General/information@2x.png
+		PartialPath = ..\..\..\Downloads\iOS Pro\PNG\Solid\64px (Tab bar @2x)\General\information@2x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAH+AAAAAAH+AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADQ7zIpSCsAAAAidxUSaW5mb3JtYXRpb25AM3gucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACJ3NNE0ZRQAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB0dlbmVyYWwAABAACAAA0O8kGQAAABEACAAA0TRXBAAAAAEAIAAidxUAInUsACJsbQAiO+4AIh1qAAk8+wAJPPgAApQjAAIAak1hY2ludG9zaCBIRDpVc2VyczoATGVyYXk6AERvd25sb2FkczoAaU9TIFBybzoAUE5HOgBTb2xpZDoAOTZweCAoVGFiIGJhciBAM3gpOgBHZW5lcmFsOgBpbmZvcm1hdGlvbkAzeC5wbmcADgAmABIAaQBuAGYAbwByAG0AYQB0AGkAbwBuAEAAMwB4AC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBVVXNlcnMvTGVyYXkvRG93bmxvYWRzL2lPUyBQcm8vUE5HL1NvbGlkLzk2cHggKFRhYiBiYXIgQDN4KS9HZW5lcmFsL2luZm9ybWF0aW9uQDN4LnBuZwAAEwABLwAAFQACAAz//wAAAAAAAAAA
+		FullPath = /Users/Leray/Downloads/iOS Pro/PNG/Solid/96px (Tab bar @3x)/General/information@3x.png
+		PartialPath = ..\..\..\Downloads\iOS Pro\PNG\Solid\96px (Tab bar @3x)\General\information@3x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
